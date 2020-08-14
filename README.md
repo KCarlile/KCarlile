@@ -1,99 +1,99 @@
-1. ❗️ Opened issue [#56](https://github.com//KCarlile/flashchord/issues/56) in [KCarlile/flashchord](https://github.com//KCarlile/flashchord)
+### Kenny Carlile (KCarlile on GitHub) - [Learn more about me][website] 🔬🧬
 
-2. 🗣 Commented on [#53](https://github.com//KCarlile/flashchord/issues/53) in [KCarlile/flashchord](https://github.com//KCarlile/flashchord)
-3. 🎉 Merged PR [#55](https://github.com//KCarlile/flashchord/pull/55) in [KCarlile/flashchord](https://github.com//KCarlile/flashchord)
-4. 💪 Opened PR [#55](https://github.com//KCarlile/flashchord/pull/55) in [KCarlile/flashchord](https://github.com//KCarlile/flashchord)
-5. ❗️ Reopened issue [#53](https://github.com//KCarlile/flashchord/issues/53) in [KCarlile/flashchord](https://github.com//KCarlile/flashchord)
-6. undefined
-7. undefined
-8. undefined
+- 💻 Senior Product Owner for Acquia's Drupal Cloud web layer
+- 💟 Husband, father, dog dad
+- 🤝 Looking to collaborate with people on [BricksetConnect][bricksetconnect], [Tanagra][tanagra], and [Flash Chord][flashchord]
+- 🎸🎺🎼 Guitarist, musician, producer, engineer
+- 🧱 Lego collector
+- 🔭🎨🧠 Science, art, and reason advocate
+- 🌮🍕🍔🍟🌭🍪 Food lover
 
-9. undefined
+### Connect with me:
 
-10. undefined
-11. undefined
-12. undefined
-13. undefined
-14. undefined
-15. undefined
+[<img align="left" alt="kennycarlile.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="KennyCarlile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KennyCarlile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="KennyCarlile | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="KCarlile | Drupal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />][drupal]
 
-16. undefined
-17. undefined
+<br />
+<br />
 
-18. undefined
+---
 
-19. undefined
-20. undefined
-21. undefined
-22. undefined
-23. undefined
-24. undefined
-25. undefined
-26. undefined
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Direct Box (DI) Usage](http://www.kennycarlile.com/blog/2020-08-12/direct-box-di-usage)
+- [Flash Chord - Practice chords, scales, or arpeggios with an endless stream of randomized chords!](http://www.kennycarlile.com/blog/2020-07-28/flash-chord-practice-chords-scales-or-arpeggios-with-an-endless-stream-of)
+- [Recommended Guitar and Bass Pedal Ordering](http://www.kennycarlile.com/blog/2019-09-26/recommended-guitar-and-bass-pedal-ordering)
+- [Drupal Module - Brickset Connect 8.x-1.0-alpha1 released](http://www.kennycarlile.com/blog/2019-08-25/drupal-module-brickset-connect-8x-10-alpha1-released)
+- [Entronomy - Evolve From Chaos - Album Release](http://www.kennycarlile.com/blog/2016-05-20/entronomy-evolve-from-chaos-album-release)
+<!-- BLOG-POST-LIST:END -->
 
-27. undefined
+➡️ [View site and more blog posts...](http://www.kennycarlile.com)
 
-28. undefined
-29. undefined
+<br />
+<br />
 
-30. undefined
+---
 
-31. undefined
-32. undefined
-33. undefined
-34. undefined
-35. undefined
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
 
-36. undefined
-37. undefined
-38. undefined
-39. undefined
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="KCarlile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&hide_border=true" />
+</details>
 
-40. undefined
-41. undefined
+<br />
+<br />
 
-42. undefined
+---
 
-43. undefined
+### Languages and Tools:
 
-44. undefined
+<img align="left" alt="Drupal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />
 
-45. undefined
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
 
-46. undefined
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 
-47. undefined
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 
-48. undefined
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 
-49. undefined
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 
-50. undefined
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 
-51. undefined
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 
-52. undefined
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
-53. undefined
+<img align="left" alt="Apple" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" />
 
-54. undefined
+<img align="left" alt="Reason Studios" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reasonstudios.svg" />
 
-55. undefined
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 
-56. undefined
+<img align="left" alt="Adobe Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
 
-57. undefined
-58. undefined
+<br />
+<br />
 
-59. undefined
+---
 
 
-60. undefined
-61. undefined
-62. undefined
-63. undefined
-64. undefined
-65. undefined
-66. undefined
-67. undefined
-68. undefined
+[website]: http://www.kennycarlile.com
+[twitter]: https://twitter.com/KennyCarlile
+[youtube]: https://youtube.com/KennyCarlile
+[instagram]: https://instagram.com/kennycarlile
+[linkedin]: https://www.linkedin.com/in/kennycarlile
+[drupal]: https://www.drupal.org/u/kcarlile
+[bricksetconnect]: https://www.drupal.org/project/brickset_connect
+[tanagra]: http://www.tanagra.dev/
+[flashchord]: http://www.flashchord.com/
