@@ -42,7 +42,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="KCarlile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&hide_border=true" />
 </details>
 
 <br />
@@ -74,9 +74,9 @@
 
 <img align="left" alt="Reason Studios" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reasonstudios.svg" />
 
-<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/photoshop.svg" />
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 
-<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/illustrator.svg" />
+<img align="left" alt="Adobe Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
 
 <br />
 <br />
