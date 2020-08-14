@@ -24,6 +24,11 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Direct Box (DI) Usage](http://www.kennycarlile.com/blog/2020-08-12/direct-box-di-usage)
+- [Flash Chord - Practice chords, scales, or arpeggios with an endless stream of randomized chords!](http://www.kennycarlile.com/blog/2020-07-28/flash-chord-practice-chords-scales-or-arpeggios-with-an-endless-stream-of)
+- [Recommended Guitar and Bass Pedal Ordering](http://www.kennycarlile.com/blog/2019-09-26/recommended-guitar-and-bass-pedal-ordering)
+- [Drupal Module - Brickset Connect 8.x-1.0-alpha1 released](http://www.kennycarlile.com/blog/2019-08-25/drupal-module-brickset-connect-8x-10-alpha1-released)
+- [Entronomy - Evolve From Chaos - Album Release](http://www.kennycarlile.com/blog/2016-05-20/entronomy-evolve-from-chaos-album-release)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [View site and more blog posts...](http://www.kennycarlile.com)
