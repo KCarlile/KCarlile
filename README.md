@@ -38,23 +38,20 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+###:zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
+---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="KCarlile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&hide_border=true" />
-</details>
-
-<br />
-<br />
+###:zap: Github Stats
+<img align="left" alt="KCarlile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&hide_border=true" />
 
 ---
+
+<br />
+<br />
 
 ### Languages and Tools:
 
