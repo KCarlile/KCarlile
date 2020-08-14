@@ -35,13 +35,6 @@
 
 ---
 
-### :zap: Recent Github Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ### :zap: Github Stats
 <img alt="KCarlile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&hide_border=true" />
 
