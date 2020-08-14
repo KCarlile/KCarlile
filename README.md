@@ -43,7 +43,7 @@
 ---
 
 ### :zap: Github Stats
-<img align="left" alt="KCarlile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&hide_border=true" />
+<img alt="KCarlile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&hide_border=true" />
 
 ---
 
