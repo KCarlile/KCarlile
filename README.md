@@ -33,9 +33,6 @@
 
 ➡️ [View site and more blog posts...](http://www.kennycarlile.com)
 
-<br />
-<br />
-
 ---
 
 ### :zap: Recent Github Activity
@@ -49,9 +46,6 @@
 <img align="left" alt="KCarlile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&hide_border=true" />
 
 ---
-
-<br />
-<br />
 
 ### Languages and Tools:
 
