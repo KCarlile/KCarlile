@@ -1,4 +1,4 @@
-### Kenny Carlile (KCarlile on GitHub) - [Learn more about me][website] 🔬🧬
+### Kenny Carlile (KCarlile on Github) - [Learn more about me][website] 🔬🧬
 
 - 💻 Senior Product Owner for Acquia's Drupal Cloud web layer
 - 💟 Husband, father, dog dad
@@ -65,7 +65,7 @@
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 <img align="left" alt="Apple" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" />
 
