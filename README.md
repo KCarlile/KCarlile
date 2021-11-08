@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Hot-rodding the Hot Rod - 2011 Fender American Nashville B-Bender Upgrades](https://www.kennycarlile.com/blog/2020-09-14/hot-rodding-the-hot-rod-2011-fender-american-nashville-b-bender-upgrades)
 - [Preamp Usage with Microphones](https://www.kennycarlile.com/blog/2020-09-09/preamp-usage-with-microphones)
-- [Direct Box (DI) Usage](https://www.kennycarlile.com/blog/2020-08-12/direct-box-di-usage)
+- [Direct Box &lpar;DI&rpar; Usage](https://www.kennycarlile.com/blog/2020-08-12/direct-box-di-usage)
 - [Flash Chord - Practice chords, scales, or arpeggios with an endless stream of randomized chords!](https://www.kennycarlile.com/blog/2020-07-28/flash-chord-practice-chords-scales-or-arpeggios-with-an-endless-stream-of)
 - [Recommended Guitar and Bass Pedal Ordering](https://www.kennycarlile.com/blog/2019-09-26/recommended-guitar-and-bass-pedal-ordering)
 <!-- BLOG-POST-LIST:END -->
