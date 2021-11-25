@@ -1,6 +1,7 @@
 ### Kenny Carlile (KCarlile on Github) - [Learn more about me][website] 🔬🧬
 
 - 💻 Senior Product Owner for Acquia's Drupal Cloud web layer
+- 🛠 Passionate about Product Operations and Product Owner enablement
 - 💟 Husband, father, dog dad
 - 🤝 Looking to collaborate with people on [BricksetConnect][bricksetconnect], [Tanagra][tanagra], and [Flash Chord][flashchord]
 - 🎸🎺🎼 Guitarist, musician, producer, engineer
@@ -11,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="kennycarlile.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="KennyCarlile | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="KennyCarlile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KennyCarlile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="KennyCarlile | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
