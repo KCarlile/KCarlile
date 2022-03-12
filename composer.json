@@ -1,0 +1,14 @@
+{
+    "name": "kennycarlile/kcarlile",
+    "description": "Personal GitHub profile.",
+    "type": "project",
+    "license": "gpl-3.0",
+    "authors": [
+        {
+            "name": "Kenny Carlile"
+        }
+    ],
+    "require": {
+        "simple-icons/simple-icons": "^6.13"
+    }
+}

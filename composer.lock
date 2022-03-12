@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "670369a03cf0ce014ce00324c35357d1",
+    "packages": [
+        {
+            "name": "simple-icons/simple-icons",
+            "version": "6.13.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/simple-icons/simple-icons.git",
+                "reference": "f3b612e9083a559d6e872b19d31193ba505aa150"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/simple-icons/simple-icons/zipball/f3b612e9083a559d6e872b19d31193ba505aa150",
+                "reference": "f3b612e9083a559d6e872b19d31193ba505aa150",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "CC0-1.0"
+            ],
+            "description": "SVG icons for popular brands",
+            "homepage": "https://simpleicons.org/",
+            "keywords": [
+                "icons",
+                "svg"
+            ],
+            "support": {
+                "issues": "https://github.com/simple-icons/simple-icons/issues",
+                "source": "https://github.com/simple-icons/simple-icons/tree/6.13.0"
+            },
+            "funding": [
+                {
+                    "url": "https://opencollective.com/simple-icons",
+                    "type": "open_collective"
+                }
+            ],
+            "time": "2022-03-06T01:51:09+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}

@@ -47,31 +47,31 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Drupal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />
+<img align="left" alt="Drupal" width="26px" src="vendor/simple-icons/simple-icons/icons/drupal.svg" />
 
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+<img align="left" alt="PHP" width="26px" src="vendor/simple-icons/simple-icons/icons/php.svg" />
 
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="Java" width="26px" src="vendor/simple-icons/simple-icons/icons/java.svg" />
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="Python" width="26px" src="vendor/simple-icons/simple-icons/icons/python.svg" />
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" alt="HTML5" width="26px" src="vendor/simple-icons/simple-icons/icons/html5.svg" />
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" alt="CSS3" width="26px" src="vendor/simple-icons/simple-icons/icons/css3.svg" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="JavaScript" width="26px" src="vendor/simple-icons/simple-icons/icons/javascript.svg" />
 
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" alt="Git" width="26px" src="vendor/simple-icons/simple-icons/icons/git.svg" />
 
-<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="Github" width="26px" src="vendor/simple-icons/simple-icons/icons/github.svg" />
 
-<img align="left" alt="Apple" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" />
+<img align="left" alt="Apple" width="26px" src="vendor/simple-icons/simple-icons/icons/apple.svg" />
 
-<img align="left" alt="Reason Studios" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reasonstudios.svg" />
+<img align="left" alt="Reason Studios" width="26px" src="vendor/simple-icons/simple-icons/icons/reasonstudios.svg" />
 
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
+<img align="left" alt="Adobe Photoshop" width="26px" src="vendor/simple-icons/simple-icons/icons/adobephotoshop.svg" />
 
-<img align="left" alt="Adobe Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
+<img align="left" alt="Adobe Illustrator" width="26px" src="vendor/simple-icons/simple-icons/icons/adobeillustrator.svg" />
 
 <br />
 <br />
