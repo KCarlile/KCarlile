@@ -4,46 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "670369a03cf0ce014ce00324c35357d1",
-    "packages": [
-        {
-            "name": "simple-icons/simple-icons",
-            "version": "6.13.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/simple-icons/simple-icons.git",
-                "reference": "f3b612e9083a559d6e872b19d31193ba505aa150"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/simple-icons/simple-icons/zipball/f3b612e9083a559d6e872b19d31193ba505aa150",
-                "reference": "f3b612e9083a559d6e872b19d31193ba505aa150",
-                "shasum": ""
-            },
-            "type": "library",
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "CC0-1.0"
-            ],
-            "description": "SVG icons for popular brands",
-            "homepage": "https://simpleicons.org/",
-            "keywords": [
-                "icons",
-                "svg"
-            ],
-            "support": {
-                "issues": "https://github.com/simple-icons/simple-icons/issues",
-                "source": "https://github.com/simple-icons/simple-icons/tree/6.13.0"
-            },
-            "funding": [
-                {
-                    "url": "https://opencollective.com/simple-icons",
-                    "type": "open_collective"
-                }
-            ],
-            "time": "2022-03-06T01:51:09+00:00"
-        }
-    ],
+    "content-hash": "8ebc6fcb88907c25c5a07fdc009c640f",
+    "packages": [],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",

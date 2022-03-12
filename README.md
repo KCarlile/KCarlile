@@ -1,4 +1,6 @@
-### Kenny Carlile (KCarlile on Github) - [Learn more about me][website] 🔬🧬
+# Kenny Carlile (KCarlile on Github)
+
+## [Learn more about me][website] 🔬🧬
 
 - 💻 Senior Product Owner for Acquia's Drupal Cloud web layer, Product Operations
 - 🛠 Passionate about Product Operations and Product Owner enablement
@@ -9,25 +11,17 @@
 - 🔭🎨🧠 Science, art, and reason advocate
 - 🌮🍕🍔🍟🌭🍪 Food lover
 
-### Connect with me:
+### Connect with me
 
-<span style="background-color: #FFFFFF;">
-  
-[<img align="left" alt="kennycarlile.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="KennyCarlile | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="KennyCarlile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KennyCarlile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="KennyCarlile | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="KCarlile | Drupal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />][drupal]
-
-</span>
-
-<br />
-<br />
+- [KennyCarlile.com][website]
+- [LinkedIn][linkedin]
+- [Instagram][instagram]
+- [Drupal][drupal]
 
 ---
 
 ### 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Hot-rodding the Hot Rod - 2011 Fender American Nashville B-Bender Upgrades](http://www.kennycarlile.com/blog/2020-09-14/hot-rodding-the-hot-rod-2011-fender-american-nashville-b-bender-upgrades)
 - [Preamp Usage with Microphones](http://www.kennycarlile.com/blog/2020-09-09/preamp-usage-with-microphones)
@@ -36,48 +30,21 @@
 - [Recommended Guitar and Bass Pedal Ordering](http://www.kennycarlile.com/blog/2019-09-26/recommended-guitar-and-bass-pedal-ordering)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [View site and more blog posts...](http://www.kennycarlile.com)
+➡️ [View site and more blog posts...](https://www.kennycarlile.com/)
 
 ---
 
 ### :zap: Github Stats
-<img alt="KCarlile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&hide_border=true" />
+
+![KCarlile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&theme=dark&hide_border=true)
+
+### Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=flashchord&theme=dark&hide_border=true)](https://github.com/kcarlile/flashchord)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=tanagra&theme=dark&hide_border=true)](https://github.com/tanagra/tanagra)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=brickset_connect&theme=dark&hide_border=true)](https://github.com/kcarlile/brickset_connect)
 
 ---
-
-### Languages and Tools:
-
-<img align="left" alt="Drupal" width="26px" src="vendor/simple-icons/simple-icons/icons/drupal.svg" />
-
-<img align="left" alt="PHP" width="26px" src="vendor/simple-icons/simple-icons/icons/php.svg" />
-
-<img align="left" alt="Java" width="26px" src="vendor/simple-icons/simple-icons/icons/java.svg" />
-
-<img align="left" alt="Python" width="26px" src="vendor/simple-icons/simple-icons/icons/python.svg" />
-
-<img align="left" alt="HTML5" width="26px" src="vendor/simple-icons/simple-icons/icons/html5.svg" />
-
-<img align="left" alt="CSS3" width="26px" src="vendor/simple-icons/simple-icons/icons/css3.svg" />
-
-<img align="left" alt="JavaScript" width="26px" src="vendor/simple-icons/simple-icons/icons/javascript.svg" />
-
-<img align="left" alt="Git" width="26px" src="vendor/simple-icons/simple-icons/icons/git.svg" />
-
-<img align="left" alt="Github" width="26px" src="vendor/simple-icons/simple-icons/icons/github.svg" />
-
-<img align="left" alt="Apple" width="26px" src="vendor/simple-icons/simple-icons/icons/apple.svg" />
-
-<img align="left" alt="Reason Studios" width="26px" src="vendor/simple-icons/simple-icons/icons/reasonstudios.svg" />
-
-<img align="left" alt="Adobe Photoshop" width="26px" src="vendor/simple-icons/simple-icons/icons/adobephotoshop.svg" />
-
-<img align="left" alt="Adobe Illustrator" width="26px" src="vendor/simple-icons/simple-icons/icons/adobeillustrator.svg" />
-
-<br />
-<br />
-
----
-
 
 [website]: http://www.kennycarlile.com
 [twitter]: https://twitter.com/KennyCarlile
