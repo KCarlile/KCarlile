@@ -11,7 +11,7 @@
 - 🔭🎨🧠 Science, art, and reason advocate
 - 🌮🍕🍔🍟🌭🍪 Food lover
 
-### Connect with me
+### 🔗 Connect with me
 
 - [KennyCarlile.com][website]
 - [LinkedIn][linkedin]
@@ -38,13 +38,15 @@
 
 ![KCarlile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&theme=dark&hide_border=true)
 
-### Projects
+#### 📐 Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=flashchord&theme=dark&hide_border=true)](https://github.com/kcarlile/flashchord)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=tanagra&theme=dark&hide_border=true)](https://github.com/tanagra/tanagra)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=brickset_connect&theme=dark&hide_border=true)](https://github.com/kcarlile/brickset_connect)
 
----
+#### 💻 Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcarlile&theme=dark&hide_border=true&layout=compact)](https://github.com/kcarlile/github-readme-stats)
 
 [website]: http://www.kennycarlile.com
 [twitter]: https://twitter.com/KennyCarlile
