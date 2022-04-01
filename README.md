@@ -3,7 +3,7 @@
 ## [Learn more about me][website] 🔬🧬
 
 - 💻 Senior Product Owner for Acquia's Drupal Cloud web layer, Product Operations
-- 🛠 Passionate about Product Operations and Product Owner enablement
+- 🛠 A software professional with integrity who's focused on product enablement and team leadership
 - 💟 Husband, father, dog dad
 - 🤝 Looking to collaborate with people on [BricksetConnect][bricksetconnect], [Tanagra][tanagra], and [Flash Chord][flashchord]
 - 🎸🎺🎼 Guitarist, musician, producer, engineer
@@ -13,7 +13,7 @@
 
 ### 🔗 Connect with me
 
-- [KennyCarlile.com][website]
+- [KCarlile.com][website]
 - [LinkedIn][linkedin]
 - [Instagram][instagram]
 - [Drupal][drupal]
@@ -48,8 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcarlile&theme=dark&hide_border=true&layout=compact)](https://github.com/kcarlile/github-readme-stats)
 
-[website]: http://www.kennycarlile.com
-[twitter]: https://twitter.com/KennyCarlile
+[website]: https://www.kcarlile.com/
 [youtube]: https://youtube.com/KennyCarlile
 [instagram]: https://instagram.com/kennycarlile
 [linkedin]: https://www.linkedin.com/in/kennycarlile
