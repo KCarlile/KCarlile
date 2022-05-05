@@ -1,6 +1,6 @@
 # Kenny Carlile (KCarlile on Github)
 
-## [Learn more about me][website] 🔬🧬
+## [Learn more about me][website-professional] 🔬🧬
 
 - 💻 Product Operations Manager at [Indeed](https://www.indeed.com/)
 - 🛠 A software professional with integrity who's focused on product enablement and team leadership
