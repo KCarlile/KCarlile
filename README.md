@@ -2,10 +2,10 @@
 
 ## [Learn more about me][website] 🔬🧬
 
-- 💻 Senior Product Owner for Acquia's Drupal Cloud web layer, Product Operations
+- 💻 Product Operations Manager at [Indeed](https://www.indeed.com/)
 - 🛠 A software professional with integrity who's focused on product enablement and team leadership
 - 💟 Husband, father, dog dad
-- 🤝 Looking to collaborate with people on [BricksetConnect][bricksetconnect], [Tanagra][tanagra], and [Flash Chord][flashchord]
+- 🤝 Looking to collaborate with people on [Tanagra][tanagra] and [Flash Chord][flashchord]
 - 🎸🎺🎼 Guitarist, musician, producer, engineer
 - 🧱 Lego collector
 - 🔭🎨🧠 Science, art, and reason advocate
@@ -13,10 +13,10 @@
 
 ### 🔗 Connect with me
 
-- [KCarlile.com][website]
+- [KCarlile.com (Professional)][website-professional]
+- [KennyCarlile.com (Personal)][website-personal]
 - [LinkedIn][linkedin]
 - [Instagram][instagram]
-- [Drupal][drupal]
 
 ---
 
@@ -42,17 +42,14 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=flashchord&theme=dark&hide_border=true)](https://github.com/kcarlile/flashchord)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=tanagra&theme=dark&hide_border=true)](https://github.com/tanagra/tanagra)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=brickset_connect&theme=dark&hide_border=true)](https://github.com/kcarlile/brickset_connect)
 
 #### 💻 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcarlile&theme=dark&hide_border=true&layout=compact)](https://github.com/kcarlile/github-readme-stats)
 
-[website]: https://www.kcarlile.com/
-[youtube]: https://youtube.com/KennyCarlile
+[website-professional]: https://www.kcarlile.com/
+[website-personal]: https://www.kennycarlile.com/
 [instagram]: https://instagram.com/kennycarlile
 [linkedin]: https://www.linkedin.com/in/kennycarlile
-[drupal]: https://www.drupal.org/u/kcarlile
-[bricksetconnect]: https://www.drupal.org/project/brickset_connect
 [tanagra]: http://www.tanagra.dev/
 [flashchord]: http://www.flashchord.com/
