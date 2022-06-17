@@ -34,6 +34,7 @@
 ![](https://img.shields.io/badge/-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=02458D)
 ![](https://img.shields.io/badge/-Boostrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=02458D)
 ![](https://img.shields.io/badge/-Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=02458D)
+![](https://img.shields.io/badge/-Jekyll-informational?style=for-the-badge&logo=jekyll&logoColor=white&color=02458D)
 
 #### Tools
 ![](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=C70D2C)
@@ -72,6 +73,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=flashchord&theme=dark&hide_border=true)](https://github.com/kcarlile/flashchord)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=tanagra&theme=dark&hide_border=true)](https://github.com/tanagra/tanagra)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=utilities&theme=dark&hide_border=true)](https://github.com/kcarlile/utilities)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=kcarlile&theme=dark&hide_border=true)](https://github.com/kcarlile/kcarlile)
 
 #### 💻 Language Stats
 
