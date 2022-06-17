@@ -39,6 +39,7 @@
 ![](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=C70D2C)
 ![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=C70D2C)
 ![](https://img.shields.io/badge/-VS_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=C70D2C)
+![](https://img.shields.io/badge/-Google_Suite-informational?style=for-the-badge&logo=google&logoColor=white&color=C70D2C)
 
 
 #### Graphics
