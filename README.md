@@ -1,6 +1,6 @@
 # Kenny Carlile (KCarlile on Github)
 
-## [Learn more about me][website-professional] 🔬🧬
+## 🔬🧬 [Learn more about me][website-professional]
 
 - 💻 Product Operations Manager at [Indeed](https://www.indeed.com/)
 - 🛠 A software professional with integrity who's focused on product enablement and team leadership
@@ -17,6 +17,35 @@
 - [KennyCarlile.com (Personal)][website-personal]
 - [LinkedIn][linkedin]
 - [Instagram][instagram]
+
+---
+
+#### Platforms
+![](https://img.shields.io/badge/-Mac-informational?style=for-the-badge&logo=apple&logoColor=white&color=220052)
+![](https://img.shields.io/badge/-Bash_on_iTerm2-informational?style=for-the-badge&logo=iterm2&logoColor=white&color=220052)
+![](https://img.shields.io/badge/-Homebrew-informational?style=for-the-badge&logo=homebrew&logoColor=white&color=220052)
+
+#### Code
+![](https://img.shields.io/badge/-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=02458D)
+![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=02458D)
+![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=02458D)
+![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=02458D)
+![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=02458D)
+![](https://img.shields.io/badge/-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=02458D)
+![](https://img.shields.io/badge/-Boostrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=02458D)
+![](https://img.shields.io/badge/-Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=02458D)
+
+#### Tools
+![](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=C70D2C)
+![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=C70D2C)
+![](https://img.shields.io/badge/-VS_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=C70D2C)
+
+
+#### Graphics
+![](https://img.shields.io/badge/-Photoshop-informational?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=006643)
+![](https://img.shields.io/badge/-Illustrator-informational?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=006643)
+
+
 
 ---
 
@@ -38,12 +67,12 @@
 
 ![KCarlile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kcarlile&show_icons=true&theme=dark&hide_border=true)
 
-#### 📐 Projects
+#### 📐 Highlighted Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=flashchord&theme=dark&hide_border=true)](https://github.com/kcarlile/flashchord)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=tanagra&theme=dark&hide_border=true)](https://github.com/tanagra/tanagra)
 
-#### 💻 Languages
+#### 💻 Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcarlile&theme=dark&hide_border=true&layout=compact)](https://github.com/kcarlile/github-readme-stats)
 
