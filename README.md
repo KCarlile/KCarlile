@@ -1,4 +1,4 @@
-# Kenny Carlile (KCarlile on Github)
+# Kenny Carlile (KCarlile on GitHub)
 
 ## 🔬🧬 [Learn more about me][website-professional]
 
@@ -84,5 +84,5 @@
 [website-personal]: https://www.kennycarlile.com/
 [instagram]: https://instagram.com/kennycarlile
 [linkedin]: https://www.linkedin.com/in/kennycarlile
-[tanagra]: http://www.tanagra.dev/
+[tanagra]: https://www.tanagra.dev/
 [flashchord]: http://www.flashchord.com/
