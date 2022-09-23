@@ -2,8 +2,8 @@
 
 ## 🔬🧬 [Learn more about me][website-professional]
 
-- 💻 Product Operations Manager at [Indeed](https://www.indeed.com/)
-- 🛠 A software professional with integrity who's focused on product enablement and team leadership
+- 💻 Product Operations Manager in Business Technology at [Indeed](https://www.indeed.com/)
+- 🛠 Software professional with integrity who's focused on product enablement and team leadership
 - 💟 Husband, father, dog dad
 - 🤝 Looking to collaborate with people on [Tanagra][tanagra] and [Flash Chord][flashchord]
 - 🎸🎺🎼 Guitarist, musician, producer, engineer
@@ -18,36 +18,10 @@
 - [LinkedIn][linkedin]
 - [Instagram][instagram]
 
----
+### 📂 Projects
 
-#### Platforms
-![](https://img.shields.io/badge/-Mac-informational?style=for-the-badge&logo=apple&logoColor=white&color=313132)
-![](https://img.shields.io/badge/-Bash_on_iTerm2-informational?style=for-the-badge&logo=iterm2&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-Homebrew-informational?style=for-the-badge&logo=homebrew&logoColor=black&color=EFAB3A)
-
-#### Code
-![](https://img.shields.io/badge/-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=7F86B7)
-![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3E68A1)
-![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=FFA500)
-![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=264de4)
-![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1e)
-![](https://img.shields.io/badge/-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=0769AD)
-![](https://img.shields.io/badge/-Boostrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=563d7c)
-![](https://img.shields.io/badge/-Markdown-informational?style=for-the-badge&logo=markdown&logoColor=black&color=FFFFFF)
-![](https://img.shields.io/badge/-Jekyll-informational?style=for-the-badge&logo=jekyll&logoColor=white&color=B62612)
-
-#### Tools
-![](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=E25229)
-![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=16191F)
-![](https://img.shields.io/badge/-VS_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2E6CC5)
-![](https://img.shields.io/badge/-Google_Suite-informational?style=for-the-badge&logo=google&logoColor=white&color=3364E4)
-
-
-#### Graphics
-![](https://img.shields.io/badge/-Photoshop-informational?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=4C9AFF)
-![](https://img.shields.io/badge/-Illustrator-informational?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=F19612)
-
-
+- [Flash Chord][flashchord]
+- [Tanagra][tanagra]
 
 ---
 
