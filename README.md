@@ -40,6 +40,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=flashchord&theme=dark&hide_border=true)](https://github.com/kcarlile/flashchord)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=tanagra&theme=dark&hide_border=true)](https://github.com/tanagra/tanagra)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=soundboard&theme=dark&hide_border=true)](https://github.com/kcarlile/soundboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=php-file-listing&theme=dark&hide_border=true)](https://github.com/kcarlile/php-file-listing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=utilities&theme=dark&hide_border=true)](https://github.com/kcarlile/utilities)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=kcarlile&theme=dark&hide_border=true)](https://github.com/kcarlile/kcarlile)
 
@@ -47,9 +49,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcarlile&theme=dark&hide_border=true&layout=compact)](https://github.com/kcarlile/github-readme-stats)
 
-[website-professional]: https://www.kcarlile.com/
-[website-personal]: https://www.kennycarlile.com/
-[instagram]: https://instagram.com/kennycarlile
-[linkedin]: https://www.linkedin.com/in/kennycarlile
 [tanagra]: https://www.tanagra.dev/
 [flashchord]: http://www.flashchord.com/
