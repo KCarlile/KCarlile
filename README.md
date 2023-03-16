@@ -11,13 +11,6 @@
 - 🔭🎨🧠 Science, art, and reason advocate
 - 🌮🍕🍔🍟🌭🍪 Food lover
 
-### 🔗 Connect with me
-
-- [KCarlile.com (Professional)][website-professional]
-- [KennyCarlile.com (Personal)][website-personal]
-- [LinkedIn][linkedin]
-- [Instagram][instagram]
-
 ### 📂 Projects
 
 - [Flash Chord][flashchord]
