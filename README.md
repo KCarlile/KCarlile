@@ -13,8 +13,9 @@
 
 ### 📂 Projects
 
-- [Flash Chord][flashchord]
-- [Tanagra][tanagra]
+- [Flash Chord](https://www.flashchord.com/)
+- [Tanagra](https://www.tanagra.dev/)
+- [Jekyll Twitter Bootstrap Theme](https://rubygems.org/gems/jekyll-twitter-bootstrap)
 
 ---
 
@@ -39,6 +40,7 @@
 #### 📐 Highlighted Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=flashchord&theme=dark&hide_border=true)](https://github.com/kcarlile/flashchord)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=jekyll-twitter-bootstrap&theme=dark&hide_border=true)](https://github.com/kcarlile/jekyll-twitter-bootstrap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=tanagra&theme=dark&hide_border=true)](https://github.com/tanagra/tanagra)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=soundboard&theme=dark&hide_border=true)](https://github.com/kcarlile/soundboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=php-file-listing&theme=dark&hide_border=true)](https://github.com/kcarlile/php-file-listing)
@@ -48,6 +50,3 @@
 #### 💻 Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcarlile&theme=dark&hide_border=true&layout=compact)](https://github.com/kcarlile/github-readme-stats)
-
-[tanagra]: https://www.tanagra.dev/
-[flashchord]: http://www.flashchord.com/
