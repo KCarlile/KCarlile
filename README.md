@@ -2,7 +2,7 @@
 
 ## 🔬🧬 [Learn more about me](https://www.kcarlile.com/)
 
-- 💻 Product Operations Manager in Business Technology at [Indeed](https://www.indeed.com/)
+- 💻 Product Lead / Product Operations in Business Technology at [Indeed](https://www.indeed.com/)
 - 🛠 Software professional with integrity who's focused on product enablement and team leadership
 - 💟 Husband, father, dog dad
 - 🤝 Looking to collaborate with people on [Tanagra][tanagra] and [Flash Chord][flashchord]
