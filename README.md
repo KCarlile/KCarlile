@@ -5,7 +5,7 @@
 - 💻 Product Lead / Product Operations in Business Technology at [Indeed](https://www.indeed.com/)
 - 🛠 Software professional with integrity who's focused on product enablement and team leadership
 - 💟 Husband, father, dog dad
-- 🤝 Looking to collaborate with people on [Tanagra][tanagra] and [Flash Chord][flashchord]
+- 🤝 Looking to collaborate with people on [Tanagra](https://www.tanagra.dev) and [Flash Chord](https://www.flashchord.com)
 - 🎸🎺🎼 Guitarist, musician, producer, engineer
 - 🧱 Lego collector
 - 🔭🎨🧠 Science, art, and reason advocate
