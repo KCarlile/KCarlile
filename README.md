@@ -19,8 +19,6 @@
 - [PHP File Listing](https://github.com/kcarlile/php-file-listing)
 - [Soundboard](https://github.com/kcarlile/soundboard)
 
----
-
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
