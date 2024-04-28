@@ -16,6 +16,8 @@
 - [Flash Chord](https://www.flashchord.com/)
 - [Tanagra](https://www.tanagra.dev/)
 - [Jekyll Twitter Bootstrap Theme](https://rubygems.org/gems/jekyll-twitter-bootstrap)
+- [PHP File Listing](https://github.com/kcarlile/php-file-listing)
+- [Soundboard](https://github.com/kcarlile/soundboard)
 
 ---
 
