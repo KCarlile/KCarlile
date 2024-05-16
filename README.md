@@ -2,7 +2,7 @@
 
 ## 🔬🧬 [Learn more about me](https://www.kcarlile.com/)
 
-- 💻 Product Operations Manager / Product Lead
+- 💻 Senior Product Operations Manager
 - 🛠 Software professional with integrity who's focused on product enablement and team leadership
 - 💟 Husband, father, dog dad
 - 🤝 Looking to collaborate with people on [Tanagra](https://www.tanagra.dev) and [Flash Chord](https://www.flashchord.com)
@@ -19,7 +19,7 @@
 - [PHP File Listing](https://github.com/kcarlile/php-file-listing)
 - [Soundboard](https://github.com/kcarlile/soundboard)
 
-### 📝 Latest Blog Posts
+### 📝 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [My Lego Collection’s Lifecycle](https://www.kennycarlile.com/blog/2022-06-19-my-lego-collections-lifecycle)
@@ -29,7 +29,7 @@
 - [Direct Box &lpar;DI&rpar; Usage](https://www.kennycarlile.com/blog/2020-08-12/direct-box-di-usage)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [View site and more blog posts...](https://www.kennycarlile.com/)
+➡️ [View personal site and more blog posts...](https://www.kennycarlile.com/)
 
 ---
 
