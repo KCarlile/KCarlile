@@ -5,7 +5,7 @@
 - 💻 Senior Product Operations Manager
 - 🛠 Software professional with integrity who's focused on product enablement and team leadership
 - 💟 Husband, father, dog dad
-- 🤝 Looking to collaborate with people on [Tanagra](https://www.tanagra.dev) and [Flash Chord](https://www.flashchord.com)
+- 🤝 Looking to collaborate with people on [Flash Chord](https://www.flashchord.com/), [Guitar Diagrams JS](https://github.com/KCarlile/guitar-diagrams-js), and [Tanagra](https://www.tanagra.dev/)
 - 🎸🎺🎼 Guitarist, musician, producer, engineer
 - 🧱 Lego collector
 - 🔭🎨🧠 Science, art, and reason advocate
@@ -14,6 +14,7 @@
 ### 📂 Projects
 
 - [Flash Chord](https://www.flashchord.com/)
+- [Guitar Diagrams JS](https://github.com/KCarlile/guitar-diagrams-js)
 - [Tanagra](https://www.tanagra.dev/)
 - [Jekyll Twitter Bootstrap Theme](https://rubygems.org/gems/jekyll-twitter-bootstrap)
 - [PHP File Listing](https://github.com/kcarlile/php-file-listing)
@@ -40,12 +41,12 @@
 #### 📐 Highlighted Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=flashchord&theme=dark&hide_border=true)](https://github.com/kcarlile/flashchord)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=guitar-diagrams-js&theme=dark&hide_border=true)](https://github.com/kcarlile/guitar-diagrams-js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=jekyll-twitter-bootstrap&theme=dark&hide_border=true)](https://github.com/kcarlile/jekyll-twitter-bootstrap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=tanagra&theme=dark&hide_border=true)](https://github.com/tanagra/tanagra)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=soundboard&theme=dark&hide_border=true)](https://github.com/kcarlile/soundboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=php-file-listing&theme=dark&hide_border=true)](https://github.com/kcarlile/php-file-listing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=utilities&theme=dark&hide_border=true)](https://github.com/kcarlile/utilities)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcarlile&repo=kcarlile&theme=dark&hide_border=true)](https://github.com/kcarlile/kcarlile)
 
 #### 💻 Language Stats
 
