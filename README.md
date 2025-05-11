@@ -23,11 +23,11 @@
 ### 📝 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Everettian Interpretation](https://www.kennycarlile.com/blog/2025-05-11-the-everettian-interpretation)
 - [My Lego Collection’s Lifecycle](https://www.kennycarlile.com/blog/2022-06-19-my-lego-collections-lifecycle)
 - [Multiple GitHub Pages Sites with One GitHub Account](https://www.kennycarlile.com/blog/2022-05-10/multiple-github-pages-sites-with-one-github-account)
 - [Hot-rodding the Hot Rod - 2011 Fender American Nashville B-Bender Upgrades](https://www.kennycarlile.com/blog/2020-09-14/hot-rodding-the-hot-rod-2011-fender-american-nashville-b-bender-upgrades)
 - [Preamp Usage with Microphones](https://www.kennycarlile.com/blog/2020-09-09/preamp-usage-with-microphones)
-- [Direct Box &lpar;DI&rpar; Usage](https://www.kennycarlile.com/blog/2020-08-12/direct-box-di-usage)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [View personal site and more blog posts...](https://www.kennycarlile.com/)
